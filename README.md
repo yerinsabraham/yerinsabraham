@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Yerins Abraham 👋
 
-<!--
-**yerinsabraham/yerinsabraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a polymath and full-stack developer with 5+ years of hands-on experience in blockchain, web development (front-end & back-end), and scalable system design.  
+My background as a medical doctor gives me a unique analytical edge, and I thrive at the intersection of technology, problem-solving, and creativity.  
+I enjoy building impactful products, contributing to open-source, and learning fast in dynamic environments.  
 
-Here are some ideas to get you started:
+🌱 I’m currently building & exploring advanced blockchain applications  
+📫 How to reach me: yerinsabraham@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My GitHub Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerinsabraham&layout=compact&theme=dracula)
