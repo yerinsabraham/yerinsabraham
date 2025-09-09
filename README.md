@@ -5,7 +5,7 @@ My background as a medical doctor gives me a unique analytical edge, and I thriv
 I enjoy building impactful products, contributing to open-source, and learning fast in dynamic environments.  
 
 🌱 I’m currently building & exploring advanced blockchain applications  
-📫 How to reach me: yerinsabraham@gmail.com  
+📫 How to reach me: yerinssaibs@gmail.com  
 
 ---
 
