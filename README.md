@@ -1,6 +1,6 @@
 # Hi, I’m Yerins Abraham 👋
 
-I’m a polymath and full-stack developer with 4+ years of hands-on experience in blockchain, web development (front-end & back-end), and scalable system design.  
+I’m a polymath and full-stack developer with 5+ years of hands-on experience in designing and building apps, scalable server-side systems, APIs, and cloud based infrastructure for startups and growing technology companies(front-end & back-end). 
 My background as a medical doctor gives me a unique analytical edge, and I thrive at the intersection of technology, problem-solving, and creativity.  
 I enjoy building impactful products, contributing to open-source, and learning fast in dynamic environments.  
 
