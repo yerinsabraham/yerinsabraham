@@ -47,11 +47,11 @@ My background as a **medical doctor** gives me a unique analytical edge — I br
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yerinsabraham&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" alt="Yerins Abraham's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yerinsabraham&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" alt="Yerins Abraham's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerinsabraham&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yerinsabraham&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ My background as a **medical doctor** gives me a unique analytical edge — I br
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yerinsabraham&theme=algolia&column=-1" alt="Yerins Abraham's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yerinsabraham&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Yerins Abraham's Trophies" />
 </p>
 
 ---
