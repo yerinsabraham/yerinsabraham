@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yerins Abraham</h1>
-<h3 align="center">Polymath. Full-Stack Engineer. Medical Doctor. Builder of things that matter.</h3>
+<h1 align="center">Hi, I'm Yerins Abraham 👋</h1>
 
 <p align="center">
-  <a href="https://x.com/yerinsabraham" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yerinsabraham/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/yerinsabraham/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:yerinssaibs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Polymath+%26+Full-Stack+Engineer;Medical+Doctor+turned+Builder;Scalable+APIs+%7C+Cloud+Systems+%7C+Fintech;5%2B+Years+shipping+products+that+matter" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,9 +9,8 @@
 ### 🧠 About Me
 
 I'm a full-stack engineer with **5+ years** of experience building apps, scalable APIs, and cloud infrastructure for startups and growing tech companies.  
-My background as a **medical doctor** gives me a unique analytical edge — I bring the same precision I used in diagnostics to debugging systems and designing scalable architectures.
+My background as a **medical doctor** gives me a unique analytical edge. I bring the same precision I used in diagnostics to debugging systems and designing scalable architectures.
 
-- 🔭 Currently building **[Riverly](https://github.com/yerinsabraham/riverly)** — a fintech platform for seamless banking
 - 💡 I thrive at the intersection of **technology, problem-solving, and creativity**
 - 🌍 Open to collaborations on impactful products
 - 📫 Reach me at **yerinssaibs@gmail.com**
@@ -47,29 +42,37 @@ My background as a **medical doctor** gives me a unique analytical edge — I br
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yerinsabraham&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" alt="Yerins Abraham's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yerinsabraham&layout=compact&theme=dracula" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yerinsabraham&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yerinsabraham&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yerinsabraham&theme=github-compact" alt="Yerins Abraham's GitHub Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yerinsabraham&theme=dracula&hide_border=true&area=true" alt="Yerins Abraham's GitHub Activity Graph" />
+</p>
 
 ---
 
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yerinsabraham&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Yerins Abraham's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yerinsabraham&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Yerins Abraham's Trophies" />
 </p>
 
 ---
 
+### 🌐 Connect with Me
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yerinsabraham&label=Profile%20views&style=for-the-badge" alt="Profile Views" />
+  <a href="https://x.com/yerinsabraham" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yerinsabraham/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/yerinsabraham/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:yerinssaibs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yerinsabraham&label=Profile%20views&color=BD93F9&style=for-the-badge" alt="Profile Views" />
 </p>
