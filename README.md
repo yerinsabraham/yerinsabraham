@@ -1,78 +1,40 @@
-<h1 align="center">Hi, I'm Yerins Abraham 👋</h1>
+# Yerins Abraham
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Polymath+%26+Full-Stack+Engineer;Medical+Doctor+turned+Builder;Scalable+APIs+%7C+Cloud+Systems+%7C+Fintech;5%2B+Years+shipping+products+that+matter" alt="Typing SVG" />
-</p>
+**Medical doctor turned engineer. I build real products with AI, and I show you exactly how.**
 
----
+I trained as a doctor in Ukraine, taught myself to build, and now ship software full time.
+The useful thing to know about the work below is that almost none of it had an engineering
+team behind it.
 
-### 🧠 About Me
+## What I am building
 
-I'm a full-stack engineer with **5+ years** of experience building apps, scalable APIs, and cloud infrastructure for startups and growing tech companies.  
-My background as a **medical doctor** gives me a unique analytical edge. I bring the same precision I used in diagnostics to debugging systems and designing scalable architectures.
+| | |
+| --- | --- |
+| **[Oystar](https://yerinsabraham.com)** | Carries a patient's case from a frontline clinic to the right specialist and brings the clinical answer back. Running in Rwanda. |
+| **Lira** | AI customer support for hospitality and service businesses. |
+| **Creovine Academy** | Where I teach the methods I used to build all of this. |
+| **[CVault](https://github.com/yerinsabraham/cvault)** | Privacy first VPN on WireGuard. Desktop client, backend and JavaScript SDK. |
 
-- 💡 I thrive at the intersection of **technology, problem-solving, and creativity**
-- 🌍 Open to collaborations on impactful products
-- 📫 Reach me at **yerinssaibs@gmail.com**
+## Public work
 
----
+| | |
+| --- | --- |
+| [nba_week_website](https://github.com/yerinsabraham/nba_week_website) | Official site for Nigeria Blockchain and AI Week 2026, Lagos. |
+| [adna](https://github.com/yerinsabraham/adna) | B2B crypto payment gateway. Nigerian merchants accept BTC, USDT and USDC and settle in naira. |
+| [whizer](https://github.com/yerinsabraham/whizer) | Send money by voice or text. |
+| [TruthVote](https://github.com/yerinsabraham/TruthVote) | Public opinion, tracked over time. |
+| [liracall](https://github.com/yerinsabraham/liracall) | An AI voice agent that feels like a real phone call. |
 
-### 🛠️ Tech Stack
+## Working with AI
 
-**Languages & Frameworks**
+Most of what I ship is built with AI in the loop, so I write down what actually works:
+the context files, the planning step before any code, and the parts where the model
+reliably gets it wrong.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+I put the full builds on YouTube: **[@yerinsabram](https://youtube.com/@yerinsabram)**
 
-**Cloud & Infrastructure**
+## Elsewhere
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+[yerinsabraham.com](https://yerinsabraham.com) · [X](https://x.com/yerinsabraham) · [Instagram](https://instagram.com/yerinsabraham) · [TikTok](https://tiktok.com/@yerinsabraham) · [LinkedIn](https://linkedin.com/in/yerinsabraham)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yerinsabraham&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yerinsabraham&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yerinsabraham&theme=dracula&hide_border=true&area=true" alt="Yerins Abraham's GitHub Activity Graph" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yerinsabraham&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Yerins Abraham's Trophies" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://x.com/yerinsabraham" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yerinsabraham/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/yerinsabraham/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:yerinssaibs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yerinsabraham&label=Profile%20views&color=BD93F9&style=for-the-badge" alt="Profile Views" />
-</p>
+**abraham@creovine.com**
