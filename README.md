@@ -1,10 +1,9 @@
 # Yerins Abraham
 
-**Medical doctor turned engineer. I build real products with AI, and I show you exactly how.**
+**I build real products with AI, and I show you exactly how.**
 
-I trained as a doctor in Ukraine, taught myself to build, and now ship software full time.
-The useful thing to know about the work below is that almost none of it had an engineering
-team behind it.
+Most of what is below was built without an engineering team. That is the part
+worth knowing.
 
 ## What I am building
 
@@ -14,6 +13,7 @@ team behind it.
 | **Lira** | AI customer support for hospitality and service businesses. |
 | **Creovine Academy** | Where I teach the methods I used to build all of this. |
 | **[CVault](https://github.com/yerinsabraham/cvault)** | Privacy first VPN on WireGuard. Desktop client, backend and JavaScript SDK. |
+| **[agentfile](https://github.com/yerinsabraham/agentfile)** | Writes the context file an AI coding agent reads before it touches your code. No backend, no keys, no model calls. |
 
 ## Public work
 
@@ -27,9 +27,9 @@ team behind it.
 
 ## Working with AI
 
-Most of what I ship is built with AI in the loop, so I write down what actually works:
-the context files, the planning step before any code, and the parts where the model
-reliably gets it wrong.
+Most of what I ship is built with AI in the loop, so I write down what actually
+works: the context files, the planning step before any code, and the parts
+where the model reliably gets it wrong.
 
 I put the full builds on YouTube: **[@yerinsabram](https://youtube.com/@yerinsabram)**
 
