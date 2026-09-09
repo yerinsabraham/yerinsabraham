@@ -1,40 +1,70 @@
 # Yerins Abraham
 
-**I build real products with AI, and I show you exactly how.**
+**AI/Application Engineer.** I build AI systems that take real actions in production, and the controls that make that safe.
 
-Most of what is below was built without an engineering team. That is the part
-worth knowing.
+Six-plus years shipping backend and full-stack software. The last stretch has been agents, retrieval and evaluation, on top of a core banking platform and a multi-product API I still run.
 
-## What I am building
+Kigali, Nigeria and Dubai at different times. Remote worldwide, and I travel.
+
+---
+
+## What I actually build
+
+**[Lira Intelligence](https://liraintelligence.com)** is an AI support agent that answers from a company's own knowledge base and then does the thing: freeze the card, check the transaction, open the ticket. The interesting part is not the answering. It is letting a language model take privileged actions without that being reckless.
+
+So it has:
+
+- **Production RAG** on Qdrant. Hybrid search, vector plus keyword, ranked by source authority and filtered by knowledge-base segment. It degrades to keyword retrieval when the vector store is down instead of failing the turn.
+- **A seven-tier risk model** on every tool, from `read_public` to `human_only`, plus maker-checker approval: the agent parks a privileged action, a second person authorises it out of band, and the tool executes server-side and writes back into the conversation. An approver acts hours later, when the customer's socket is long gone.
+- **An MCP gateway** so a customer can plug in their own tool server. Off by default, KMS-backed credentials, SSRF protection through DNS resolution and private-IP blocking, per-tool rate limits, full config audit trail. → [how and why I built it this way](https://yerinsabraham.com/engineering/mcp-gateway)
+- **A realtime voice agent** in Python on Pipecat with AWS Nova Sonic.
+- **An eval harness** that fails the build on regression. → [open sourced as evalgate](https://github.com/yerinsabraham/evalgate)
+
+It runs on one Fastify service on AWS serving four products from 155 service modules and a 46-model PostgreSQL schema, isolated by table prefix and product-scoped JWT claims.
+
+Separately I lead backend on a **production core banking platform** in .NET 8. Over the 30 days to 9 September 2026 it served 65,942 requests with **two server errors**, p95 284ms. That same governed agent now runs inside its API.
+
+---
+
+## Most of my work is private, so here is the public proof
+
+Client systems and commercial products do not go on GitHub. What I can do is open source the parts that carry no customer data, and write up the architecture.
 
 | | |
 | --- | --- |
-| **[Oystar](https://yerinsabraham.com)** | Carries a patient's case from a frontline clinic to the right specialist and brings the clinical answer back. Running in Rwanda. |
-| **Lira** | AI customer support for hospitality and service businesses. |
-| **Creovine Academy** | Where I teach the methods I used to build all of this. |
-| **[CVault](https://github.com/yerinsabraham/cvault)** | Privacy first VPN on WireGuard. Desktop client, backend and JavaScript SDK. |
-| **[agentfile](https://github.com/yerinsabraham/agentfile)** | Writes the context file an AI coding agent reads before it touches your code. No backend, no keys, no model calls. |
+| **[evalgate](https://github.com/yerinsabraham/evalgate)** | A regression gate for LLM systems. Scores retrieval, tool selection and groundedness, and fails CI on regression. Safety metrics carry an absolute floor of zero, so an agent that starts complying with prompt injection cannot pass on tolerance. The scorers have their own tests, because an uncalibrated measuring instrument produces numbers that look like evidence. |
+| **[agentfile](https://github.com/yerinsabraham/agentfile)** | Writes the context file an AI coding agent reads before it touches your code. No backend, no keys, no model call. |
+| **[simbai](https://github.com/yerinsabraham/simbai)** | A prompt goes in, a structured software project comes out. Clarify, spec and architecture stages, with the architecture doc as the source of truth. |
+| **[liracall](https://github.com/yerinsabraham/liracall)** | An AI voice agent that feels like a real phone call. Native call screen, live cloud backend. |
+| **[cvault](https://github.com/yerinsabraham/cvault)** | Privacy-first VPN on WireGuard. Backend, desktop client, JavaScript SDK and web demo. |
+| **[yerinsabraham.com](https://github.com/yerinsabraham/yerinsabraham_site)** | My site, and where the engineering write-ups live. |
 
-## Public work
+The contribution graph counts private work, which is most of it.
 
-| | |
-| --- | --- |
-| [nba_week_website](https://github.com/yerinsabraham/nba_week_website) | Official site for Nigeria Blockchain and AI Week 2026, Lagos. |
-| [adna](https://github.com/yerinsabraham/adna) | B2B crypto payment gateway. Nigerian merchants accept BTC, USDT and USDC and settle in naira. |
-| [whizer](https://github.com/yerinsabraham/whizer) | Send money by voice or text. |
-| [TruthVote](https://github.com/yerinsabraham/TruthVote) | Public opinion, tracked over time. |
-| [liracall](https://github.com/yerinsabraham/liracall) | An AI voice agent that feels like a real phone call. |
+---
 
-## Working with AI
+## Stack
 
-Most of what I ship is built with AI in the loop, so I write down what actually
-works: the context files, the planning step before any code, and the parts
-where the model reliably gets it wrong.
+**AI** RAG, agents, tool calling, MCP, evals, guardrails, prompt-injection defence, realtime voice · Anthropic Claude, OpenAI, AWS Bedrock, Nova Sonic, Pipecat, Qdrant
 
-I put the full builds on YouTube: **[@yerinsabram](https://youtube.com/@yerinsabram)**
+**Backend** TypeScript, Node.js, Fastify, Python, C#/.NET 8, Go · PostgreSQL, Prisma, DynamoDB, Redis, Kafka
 
-## Elsewhere
+**Cloud** AWS (EC2, ECS, RDS, S3, KMS, Secrets Manager, Bedrock), Docker, GitHub Actions, CI/CD
 
-[yerinsabraham.com](https://yerinsabraham.com) · [X](https://x.com/yerinsabraham) · [Instagram](https://instagram.com/yerinsabraham) · [TikTok](https://tiktok.com/@yerinsabraham) · [LinkedIn](https://linkedin.com/in/yerinsabraham)
+**Frontend** React, Next.js, TypeScript, Flutter
 
-**abraham@creovine.com**
+---
+
+## Also
+
+I am a medical doctor, and I am building **[Oystar](https://oystar.app)**, which carries a patient's case from a frontline clinic to the right specialist and brings the clinical answer back. Live in Rwanda. Patients who never arrive get flagged instead of lost, and the patient needs no phone and no app.
+
+I run **[Creovine Academy](https://academy.creovine.com)**, teaching engineers to work with AI. 120+ people so far.
+
+Outside all of it I draw, in pen and ink, at some scale.
+
+---
+
+**Open to senior AI and backend engineering roles.** Remote worldwide, EOR or contract.
+
+**yerinssaibs@gmail.com** · [yerinsabraham.com](https://yerinsabraham.com) · [LinkedIn](https://linkedin.com/in/yerinsabraham) · [X](https://x.com/yerinsabraham)
