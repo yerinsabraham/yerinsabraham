@@ -34,7 +34,6 @@ Client systems and commercial products do not go on GitHub. What I can do is ope
 | --- | --- |
 | **[trackline](https://github.com/yerinsabraham/trackline)** | An alignment layer for AI agents. Checks whether an agent's actions still match the task, the rules and the evidence it was given: beside a local coding agent while it works, and across production traces. One engine, two surfaces. The CI eval gate is the first working component, and its safety metrics carry an absolute floor of zero, so an agent that starts complying with prompt injection cannot pass on tolerance. → [why I am building it](https://yerinsabraham.com/engineering/nothing-notices-when-an-agent-drifts) |
 | **[agentfile](https://github.com/yerinsabraham/agentfile)** | Writes the context file an AI coding agent reads before it touches your code. No backend, no keys, no model call. |
-| **[simbai](https://github.com/yerinsabraham/simbai)** | A prompt goes in, a structured software project comes out. Clarify, spec and architecture stages, with the architecture doc as the source of truth. |
 | **[liracall](https://github.com/yerinsabraham/liracall)** | An AI voice agent that feels like a real phone call. Native call screen, live cloud backend. |
 | **[cvault](https://github.com/yerinsabraham/cvault)** | Privacy-first VPN on WireGuard. Backend, desktop client, JavaScript SDK and web demo. |
 | **[yerinsabraham.com](https://github.com/yerinsabraham/yerinsabraham_site)** | My site, and where the engineering write-ups live. |
