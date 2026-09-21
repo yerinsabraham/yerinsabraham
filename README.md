@@ -18,7 +18,7 @@ So it has:
 - **A seven-tier risk model** on every tool, from `read_public` to `human_only`, plus maker-checker approval: the agent parks a privileged action, a second person authorises it out of band, and the tool executes server-side and writes back into the conversation. An approver acts hours later, when the customer's socket is long gone.
 - **An MCP gateway** so a customer can plug in their own tool server. Off by default, KMS-backed credentials, SSRF protection through DNS resolution and private-IP blocking, per-tool rate limits, full config audit trail. → [how and why I built it this way](https://yerinsabraham.com/engineering/mcp-gateway)
 - **A realtime voice agent** in Python on Pipecat with AWS Nova Sonic.
-- **An eval harness** that fails the build on regression. → [open sourced as evalgate](https://github.com/yerinsabraham/evalgate)
+- **An eval harness** that fails the build on regression. → [open sourced, and now the CI half of trackline](https://github.com/yerinsabraham/trackline)
 
 It runs on one Fastify service on AWS serving four products from 155 service modules and a 46-model PostgreSQL schema, isolated by table prefix and product-scoped JWT claims.
 
@@ -32,7 +32,7 @@ Client systems and commercial products do not go on GitHub. What I can do is ope
 
 | | |
 | --- | --- |
-| **[evalgate](https://github.com/yerinsabraham/evalgate)** | A regression gate for LLM systems. Scores retrieval, tool selection and groundedness, and fails CI on regression. Safety metrics carry an absolute floor of zero, so an agent that starts complying with prompt injection cannot pass on tolerance. The scorers have their own tests, because an uncalibrated measuring instrument produces numbers that look like evidence. |
+| **[trackline](https://github.com/yerinsabraham/trackline)** | An alignment layer for AI agents. Checks whether an agent's actions still match the task, the rules and the evidence it was given: beside a local coding agent while it works, and across production traces. One engine, two surfaces. The CI eval gate is the first working component, and its safety metrics carry an absolute floor of zero, so an agent that starts complying with prompt injection cannot pass on tolerance. → [why I am building it](https://yerinsabraham.com/engineering/nothing-notices-when-an-agent-drifts) |
 | **[agentfile](https://github.com/yerinsabraham/agentfile)** | Writes the context file an AI coding agent reads before it touches your code. No backend, no keys, no model call. |
 | **[simbai](https://github.com/yerinsabraham/simbai)** | A prompt goes in, a structured software project comes out. Clarify, spec and architecture stages, with the architecture doc as the source of truth. |
 | **[liracall](https://github.com/yerinsabraham/liracall)** | An AI voice agent that feels like a real phone call. Native call screen, live cloud backend. |
