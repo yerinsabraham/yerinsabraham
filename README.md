@@ -10,7 +10,9 @@ Kigali, Nigeria and Dubai at different times. Remote worldwide, and I travel.
 
 ## What I actually build
 
-**[Lira Intelligence](https://liraintelligence.com)** is an AI support agent that answers from a company's own knowledge base and then does the thing: freeze the card, check the transaction, open the ticket. The interesting part is not the answering. It is letting a language model take privileged actions without that being reckless.
+**[trackline](https://github.com/yerinsabraham/trackline)** watches whether an AI agent is still doing what you asked. An agent that drifts does not crash: it writes to `.env`, installs a package nobody named, edits code outside the request, and the build stays green. trackline runs beside Claude Code, Codex and Cursor, names what it saw with the evidence, and can stop the action before it happens. The same engine checks production agent traces, and a CI eval gate fails the build on regression. It belongs to no vendor, so one set of rules covers every agent a team uses. Go engine, open source, on npm (`npm install -g trackline`), with a phone app to approve or block what it stopped. → [trackline.dev](https://trackline.dev) · [why I am building it](https://yerinsabraham.com/engineering/nothing-notices-when-an-agent-drifts)
+
+It came out of **[Lira Intelligence](https://liraintelligence.com)**, an AI support agent that answers from a company's own knowledge base and then does the thing: freeze the card, check the transaction, open the ticket. The interesting part is not the answering. It is letting a language model take privileged actions without that being reckless.
 
 So it has:
 
@@ -32,7 +34,7 @@ Client systems and commercial products do not go on GitHub. What I can do is ope
 
 | | |
 | --- | --- |
-| **[trackline](https://github.com/yerinsabraham/trackline)** | An alignment layer for AI agents. Checks whether an agent's actions still match the task, the rules and the evidence it was given: beside a local coding agent while it works, and across production traces. One engine, two surfaces. **v0.1.0 is on npm** (`npm install -g trackline`) and watches Claude Code and Codex today, with a CI eval gate alongside whose safety metrics carry an absolute floor of zero, so an agent that starts complying with prompt injection cannot pass on tolerance. → [why I am building it](https://yerinsabraham.com/engineering/nothing-notices-when-an-agent-drifts) |
+| **[trackline](https://github.com/yerinsabraham/trackline)** | The alignment layer above. Claude Code, Codex, Cursor, any MCP client and production traces, from one engine. Its CI eval gate gives safety metrics an absolute floor of zero, so an agent that starts complying with prompt injection cannot pass on tolerance. |
 | **[agentfile](https://github.com/yerinsabraham/agentfile)** | Writes the context file an AI coding agent reads before it touches your code. No backend, no keys, no model call. |
 | **[liracall](https://github.com/yerinsabraham/liracall)** | An AI voice agent that feels like a real phone call. Native call screen, live cloud backend. |
 | **[cvault](https://github.com/yerinsabraham/cvault)** | Privacy-first VPN on WireGuard. Backend, desktop client, JavaScript SDK and web demo. |
