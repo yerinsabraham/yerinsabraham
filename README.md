@@ -58,14 +58,18 @@ The contribution graph counts private work, which is most of it.
 
 ## Also
 
-I am a medical doctor, and I am building **[Oystar](https://oystar.app)**, which carries a patient's case from a frontline clinic to the right specialist and brings the clinical answer back. Live in Rwanda. Patients who never arrive get flagged instead of lost, and the patient needs no phone and no app.
+I am a medical doctor, and I am building **[Oystar](https://oystar.app)**, which carries a patient's case from a frontline clinic to the right specialist and brings the clinical answer back. In early access in Rwanda. Patients who never arrive get flagged instead of lost, and the patient needs no phone and no app.
 
-I run **[Creovine Academy](https://academy.creovine.com)**, teaching engineers to work with AI. 120+ people so far.
+I run **[Creovine Academy](https://academy.creovine.com)**, teaching people to work with AI. 120+ people so far.
+
+Before Creovine took its name in 2025, I founded **Metart Africa** (2022), a web3 platform for African art, and spoke for it at Nigeria Fintech Week in Lagos that October. My work on the Riverly banking platform is under [@Yerinsfluxus](https://github.com/Yerinsfluxus).
 
 Outside all of it I draw, in pen and ink, at some scale.
 
 ---
 
 **Open to senior AI and backend engineering roles.** Remote worldwide, EOR or contract.
+
+Every claim on my CV, with where to check it: **[yerinsabraham.com/verify](https://yerinsabraham.com/verify)**
 
 **yerinssaibs@gmail.com** · [yerinsabraham.com](https://yerinsabraham.com) · [LinkedIn](https://linkedin.com/in/yerinsabraham) · [X](https://x.com/yerinsabraham)
