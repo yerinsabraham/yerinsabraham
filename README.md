@@ -62,7 +62,7 @@ I am a medical doctor, and I am building **[Oystar](https://oystar.app)**, which
 
 I run **[Creovine Academy](https://academy.creovine.com)**, teaching people to work with AI. 120+ people so far.
 
-Before Creovine took its name in 2025, I founded **Metart Africa** (2022), a web3 platform for African art, and spoke for it at Nigeria Fintech Week in Lagos that October. My work on the Riverly banking platform is under [@Yerinsfluxus](https://github.com/Yerinsfluxus).
+I have been building since 2020, under the Creovine name since 2025. Before that I founded **Metart Africa** (2022), a web3 platform for African art, and spoke for it at Nigeria Fintech Week in Lagos that October. I also built **[Adna](https://adna.app)**, a crypto payment gateway for Nigerian merchants. My work on the Riverly banking platform is under [@Yerinsfluxus](https://github.com/Yerinsfluxus).
 
 Outside all of it I draw, in pen and ink, at some scale.
 
