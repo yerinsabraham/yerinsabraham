@@ -58,7 +58,7 @@ The contribution graph counts private work, which is most of it.
 
 ## Also
 
-I am a medical doctor, and I am building **[Oystar](https://oystar.app)**, which carries a patient's case from a frontline clinic to the right specialist and brings the clinical answer back. In early access in Rwanda. Patients who never arrive get flagged instead of lost, and the patient needs no phone and no app.
+I am a medical doctor, and I am building **[Oystar](https://oystar.app)**, which carries a patient's case from a frontline clinic to the right specialist and brings the clinical answer back. Live in Rwanda. Patients who never arrive get flagged instead of lost, and the patient needs no phone and no app.
 
 I run **[Creovine Academy](https://academy.creovine.com)**, teaching people to work with AI. 120+ people so far.
 
